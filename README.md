@@ -1,2 +1,54 @@
-# polarcop_ios
-Polar Cop is an app designed to reduce the time taken to checkout on popular streetwear sites such as Supreme. Sites like supreme will often sell limited run products ranging from Jackets to T-Shirts to Accessories, popular items will often sell out within under 30s and certain “hyped” items will sell within under 10s. Polar Cop is ultimately an automation tool designed to speed up the checkout process by tackling the 4 main barriers. 1.) Product Selection, items are often placed within its specific category page and can be tricky to find. Polar Cop can quickly find the product and navigate the user to the correct page. 2.)  Colour Selection, products are usually separated by colours, Polar Cop can immediately select the right colour and navigate the user. 3.) Size Selection, users are often forced to open a select window and choose the desired size, Polar Cop can quickly select a preset size. 4.) The major component, filling out billing and shipping info, this process can cost users valuable time and is often where other automation tools fail. However, Polar Cop uses an advanced input entry system capable of bypassing Supreme’s checkout checks undetected.
+# Polar Cop iOS APP
+https://polarcop.com
+Polar Cop is an app designed to reduce the time taken to checkout on popular streetwear sites such as Supreme. The app is constantly update and new stores are being added frequently.
+Stores currently supported:
+
+ - [x] Supreme - UK
+ - [x] Supreme - US
+ - [ ] Supreme - JPN
+ - [ ] Supreme - EU
+ - [x] Palace Skateboards US/EU
+ - [ ] Kith
+ - [ ] Bodega
+ - [ ] Adidas 
+ - [ ] Nike
+ - [ ] octobersveryown (All regions)
+ - [ ] deadstock
+
+ To request more stores please submit a pull request and add them to this list. Alternatively submit a feature request.
+
+# Features
+
+## Lite £0 (Free) /3 months:
+//User must renew every 3 months to maintain free subscription.
+ - Simple Clean UI
+ - **Auto select by size**
+ - **Autofill Shipping and Billing Information**
+ - Weekly updated drop lists
+ - Weekly updated news alerts
+ - Free push notifications
+ - Free App Updates
+ - Free Standard Support Response within 48-72 hrs
+
+## Premium £35 /6 months (Basically a Season):
+ - Simple Clean UI
+ - **Auto select by size**
+ - **Autofill Shipping and Billing Information**
+ - **Search and select by keywords**
+ - **Search and select by colour**
+ - **Search and select by category**
+ - **Simple one tap search button**
+ - Weekly updated drop lists
+ - Weekly updated news alerts
+ - Free push notifications
+ - Free App Updates
+ - Free Premium Support Response within 24-48hrs (Usually within 6 hours)
+
+
+## Upcoming Features
+
+ - [ ] Restock Alerts
+ - [ ] Multi Keyword search
+ - [ ] automated captcha bypass
+ - [ ] remove captcha
+ - [ ] Intelligent autofill powered by AI 
