@@ -19,7 +19,7 @@ Stores currently supported:
 
 # Features
 
-## Lite £0 (Free) /3 months:
+## Lite £0 (Free) /3 months: https://polarcop.com/shop/lite/
 //User must renew every 3 months to maintain free subscription.
  - Simple Clean UI
  - **Auto select by size**
@@ -30,7 +30,7 @@ Stores currently supported:
  - Free App Updates
  - Free Standard Support Response within 48-72 hrs
 
-## Premium £35 /6 months (Basically a Season):
+## Premium £35 /6 months (Basically a Season): https://polarcop.com/shop/premium/
  - Simple Clean UI
  - **Auto select by size**
  - **Autofill Shipping and Billing Information**
