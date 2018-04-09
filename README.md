@@ -1,6 +1,7 @@
 # Polar Cop iOS APP
 https://polarcop.com
 For support please tweet @polar_cop on twitter or DM us via instagram polar_cop
+
 Polar Cop is an app designed to reduce the time taken to checkout on popular streetwear sites such as Supreme. The app is constantly update and new stores are being added frequently.
 Stores currently supported:
 
