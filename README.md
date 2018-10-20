@@ -7,11 +7,11 @@ Stores currently supported:
 
  - [x] Supreme - UK
  - [x] Supreme - US
- - [ ] Supreme - JPN [Currently in Testing]
+ - [ ] Supreme - JPN **[Currently in Testing]**
  - [x] Supreme - EU
  - [x] Palace Skateboards US/EU
- - [ ] Kith [Currently in Testing]
- - [ ] Undefeated [Currently in Testing]
+ - [ ] Kith **[Currently in Testing]**
+ - [ ] Undefeated **[Currently in Testing]**
  - [ ] Bodega
  - [ ] Adidas 
  - [ ] Nike
@@ -50,7 +50,7 @@ Stores currently supported:
 
 
 ## Upcoming Features
- - [ ] Clean UI [Currently in Testing]
+ - [ ] Clean UI **[Currently in Testing]**
  - [ ] Restock Alerts
  - [ ] Multi Keyword search
  - [ ] automated captcha bypass
