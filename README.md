@@ -1,21 +1,23 @@
 # Polar Cop iOS APP
 https://polarcop.com
-For support please tweet @polar_cop on twitter or DM us via instagram polar_cop
+For support please tweet @polar_cop on twitter or DM us via instagram @polar_cop
 
 Polar Cop is an app designed to reduce the time taken to checkout on popular streetwear sites such as Supreme. The app is constantly update and new stores are being added frequently.
 Stores currently supported:
 
  - [x] Supreme - UK
  - [x] Supreme - US
- - [ ] Supreme - JPN
- - [ ] Supreme - EU
+ - [ ] Supreme - JPN [Currently in Testing]
+ - [x] Supreme - EU
  - [x] Palace Skateboards US/EU
- - [ ] Kith
+ - [ ] Kith [Currently in Testing]
+ - [ ] Undefeated [Currently in Testing]
  - [ ] Bodega
  - [ ] Adidas 
  - [ ] Nike
  - [ ] octobersveryown (All regions)
  - [ ] deadstock
+ 
 
  To request more stores please submit a pull request and add them to this list. Alternatively submit a feature request.
 
@@ -30,7 +32,7 @@ Stores currently supported:
  - Weekly updated news alerts
  - Free push notifications
  - Free App Updates
- - Free Standard Support Response within 48-72 hrs
+ - Free Standard Support Response within 12-24 hrs (Usually within 8 hours)
 
 ## Premium £35 /6 months (Basically a Season): https://polarcop.com/shop/premium/
  - Simple Clean UI
@@ -44,13 +46,14 @@ Stores currently supported:
  - Weekly updated news alerts
  - Free push notifications
  - Free App Updates
- - Free Premium Support Response within 24-48hrs (Usually within 6 hours)
+ - Free Premium Support Response within 2-24hrs (Usually within 3 hours)
 
 
 ## Upcoming Features
-
+ - [ ] Clean UI [Currently in Testing]
  - [ ] Restock Alerts
  - [ ] Multi Keyword search
  - [ ] automated captcha bypass
  - [ ] remove captcha
  - [ ] Intelligent autofill powered by AI 
+ - [ ] Task Mode (Highly Anticipated)
