@@ -48,7 +48,9 @@ Stores currently supported:
  - Free App Updates
  - Free Premium Support Response within 2-24hrs (Usually within 3 hours)
 
-
+## Added Features
+ - [x] Added Support for Shoe Sizes
+ 
 ## Upcoming Features
  - [ ] Clean UI **[Currently in Testing]**
  - [ ] Restock Alerts
