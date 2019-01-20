@@ -7,15 +7,16 @@ Stores currently supported:
 
  - [x] Supreme - UK
  - [x] Supreme - US
- - [ ] Supreme - JPN **[Currently in Testing]**
+ - [x] Supreme - JPN **[Available to all beta users]**
  - [x] Supreme - EU
  - [x] Palace Skateboards US/EU
- - [ ] Kith **[Currently in Testing]**
- - [ ] Undefeated **[Currently in Testing]**
+ - [x] Extra Butter **[Available to all beta users]**
+ - [ ] Kith
+ - [ ] Undefeated
  - [ ] Bodega
  - [ ] Adidas 
  - [ ] Nike
- - [ ] octobersveryown (All regions)
+ - [ ] octobersveryown
  - [ ] deadstock
  
 
@@ -50,12 +51,14 @@ Stores currently supported:
 
 ## Added Features
  - [x] Added Support for Shoe Sizes
+ - [x] Redesigned UI **[Available to all beta users]**
+ - [x] Multiple Profiles **[Available to all beta users]**
+ - [x] Discord Support **[Available to all beta users]**
  
 ## Upcoming Features
- - [ ] Clean UI **[Currently in Testing]**
  - [ ] Restock Alerts
- - [ ] Multi Keyword search
- - [ ] automated captcha bypass
- - [ ] remove captcha
- - [ ] Intelligent autofill powered by AI 
+ - [ ] Multi Keyword Search
+ - [ ] Automated Captcha Bypass
+ - [ ] Remove Captcha
+ - [ ] Intelligent Autofill Powered by AI 
  - [ ] Task Mode (Highly Anticipated)
