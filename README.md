@@ -7,10 +7,10 @@ Stores currently supported:
 
  - [x] Supreme - UK
  - [x] Supreme - US
- - [x] Supreme - JPN **[Available to all beta users]**
+ - [x] Supreme - JPN
  - [x] Supreme - EU
  - [x] Palace Skateboards US/EU
- - [x] Extra Butter **[Available to all beta users]**
+ - [x] Extra Butter
  - [ ] Kith
  - [ ] Undefeated
  - [ ] Bodega
@@ -29,6 +29,8 @@ Stores currently supported:
  - Simple Clean UI
  - **Auto select by size**
  - **Autofill Shipping and Billing Information**
+ - Discord Support
+ - Proxy Speed Tester
  - Weekly updated drop lists
  - Weekly updated news alerts
  - Free push notifications
@@ -43,6 +45,8 @@ Stores currently supported:
  - **Search and select by colour**
  - **Search and select by category**
  - **Simple one tap search button**
+ - Discord Support
+ - Proxy Speed Tester
  - Weekly updated drop lists
  - Weekly updated news alerts
  - Free push notifications
@@ -51,9 +55,10 @@ Stores currently supported:
 
 ## Added Features
  - [x] Added Support for Shoe Sizes
- - [x] Redesigned UI **[Available to all beta users]**
- - [x] Multiple Profiles **[Available to all beta users]**
- - [x] Discord Support **[Available to all beta users]**
+ - [x] Redesigned UI
+ - [x] Multiple Profiles
+ - [x] Discord Support
+ - [x] Proxy Speed Tester
  
 ## Upcoming Features
  - [ ] Restock Alerts
