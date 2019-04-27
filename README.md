@@ -61,9 +61,9 @@ Stores currently supported:
  - [x] Proxy Speed Tester
  
 ## Upcoming Features
+ - [x] Task Mode (Private EU Beta)
  - [ ] Restock Alerts
  - [ ] Multi Keyword Search
  - [ ] Automated Captcha Bypass
  - [ ] Remove Captcha
  - [ ] Intelligent Autofill Powered by AI 
- - [ ] Task Mode (Highly Anticipated)
